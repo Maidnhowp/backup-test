@@ -1,0 +1,913 @@
+[2022-09-02 22:00:17 012] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:00:17 243] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:00:17 244] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:00:17 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:00:21 803] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:00:21 815] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:00:22 038] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:00:22 038] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:00:22 038] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:00:22 039] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:00:37 015] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:00:37 222] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:00:37 222] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:00:37 253] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:00:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:00:57 243] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:00:57 243] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:00:57 274] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:01:17 005] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:01:17 226] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:01:17 226] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:01:17 258] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:01:37 010] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:01:37 229] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:01:37 229] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:01:37 260] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:01:57 013] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:01:57 218] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:01:57 218] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:01:57 250] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:02:17 023] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:02:17 258] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:02:17 258] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:02:17 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:02:21 779] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:02:21 779] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:02:22 017] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:02:22 017] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:02:22 018] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:02:22 018] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:02:37 017] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:02:37 255] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:02:37 255] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:02:37 271] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:02:57 002] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:02:57 222] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:02:57 222] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:02:57 253] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:03:17 005] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:03:17 238] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:03:17 238] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:03:17 267] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:03:37 015] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:03:37 237] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:03:37 238] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:03:37 269] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:03:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:03:57 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:03:57 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:03:57 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:04:17 027] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:04:17 259] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:04:17 259] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:04:17 290] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:04:21 774] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:04:21 774] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:04:21 994] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:04:21 994] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:04:21 994] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:04:21 994] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:04:37 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:04:37 243] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:04:37 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:04:37 274] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:04:57 017] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:04:57 238] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:04:57 238] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:04:57 270] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:05:17 011] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:05:17 229] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:05:17 229] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:05:17 244] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:05:37 027] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:05:37 243] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:05:37 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:05:37 258] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:05:57 018] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:05:57 240] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:05:57 240] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:05:57 271] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:06:17 026] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:06:17 258] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:06:17 258] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:06:17 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:06:21 762] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:06:21 762] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:06:21 982] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:06:21 982] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:06:21 982] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:06:21 982] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:06:37 023] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:06:37 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:06:37 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:06:37 274] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:06:57 003] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:06:57 210] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:06:57 210] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:06:57 242] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:07:17 023] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:07:17 240] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:07:17 240] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:07:17 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:07:37 024] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:07:37 245] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:07:37 245] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:07:37 277] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:07:57 027] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:07:57 243] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:07:57 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:07:57 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:08:17 017] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:08:17 238] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:08:17 238] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:08:17 269] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:08:21 773] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:08:21 773] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:08:22 006] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:08:22 006] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:08:22 006] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:08:22 007] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:08:37 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:08:37 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:08:37 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:08:37 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:08:57 025] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:08:57 243] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:08:57 243] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:08:57 275] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:09:17 002] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:09:17 225] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:09:17 225] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:09:17 257] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:09:37 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:09:37 241] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:09:37 241] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:09:37 257] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:09:57 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:09:57 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:09:57 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:09:57 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:10:17 028] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:10:17 245] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:10:17 245] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:10:17 275] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:10:21 785] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:10:21 785] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:10:22 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:10:22 007] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:10:22 007] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:10:22 008] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:10:37 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:10:37 228] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:10:37 228] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:10:37 243] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:10:57 012] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:10:57 233] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:10:57 233] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:10:57 265] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:11:17 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:11:17 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:11:17 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:11:17 272] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:11:37 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:11:37 246] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:11:37 246] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:11:37 277] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:11:57 002] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:11:57 221] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:11:57 221] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:11:57 253] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:12:17 006] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:12:17 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:12:17 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:12:17 258] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:12:21 805] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:12:21 805] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:12:22 024] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:12:22 024] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:12:22 024] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:12:22 025] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:12:22 040] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:12:37 007] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:12:37 215] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:12:37 215] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:12:37 230] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:12:57 010] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:12:57 247] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:12:57 247] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:12:57 279] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:13:17 012] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:13:17 229] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:13:17 229] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:13:17 244] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:13:37 008] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:13:37 227] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:13:37 227] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:13:37 242] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:13:57 007] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:13:57 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:13:57 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:13:57 258] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:14:17 027] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:14:17 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:14:17 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:14:17 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:14:21 793] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:14:21 793] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:14:22 013] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:14:22 013] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:14:22 014] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:14:22 014] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:14:22 029] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:14:37 021] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:14:37 241] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:14:37 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:14:37 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:14:57 006] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:14:57 225] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:14:57 225] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:14:57 257] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:15:17 002] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:15:17 237] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:15:17 237] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:15:17 269] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:15:37 026] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:15:37 257] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:15:37 257] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:15:37 289] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:15:57 028] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:15:57 247] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:15:57 247] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:15:57 279] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:16:17 023] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:16:17 244] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:16:17 244] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:16:17 276] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:16:21 822] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:16:21 822] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:16:22 042] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:16:22 042] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:16:22 042] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:16:22 042] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:16:37 012] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:16:37 231] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:16:37 231] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:16:37 263] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:16:57 014] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:16:57 233] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:16:57 233] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:16:57 265] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:17:17 030] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:17:17 252] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:17:17 252] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:17:17 283] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:17:37 005] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:17:37 227] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:17:37 227] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:17:37 258] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:17:57 030] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:17:57 265] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:17:57 265] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:17:57 281] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:18:17 006] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:18:17 223] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:18:17 223] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:18:17 253] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:18:21 838] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:18:21 838] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:18:22 054] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:18:22 054] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:18:22 054] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:18:22 055] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:18:37 026] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:18:37 244] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:18:37 244] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:18:37 260] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:18:57 023] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:18:57 243] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:18:57 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:18:57 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:19:17 030] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:19:17 251] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:19:17 251] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:19:17 283] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:19:37 006] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:19:37 226] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:19:37 226] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:19:37 258] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:19:57 012] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:19:57 228] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:19:57 228] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:19:57 259] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:20:17 022] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:20:17 258] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:20:17 258] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:20:17 274] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:20:21 867] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:20:21 867] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:20:22 083] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:20:22 083] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:20:22 083] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:20:22 083] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:20:37 023] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:20:37 230] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:20:37 230] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:20:37 246] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:20:57 024] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:20:57 244] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:20:57 244] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:20:57 275] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:21:17 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:21:17 226] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:21:17 226] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:21:17 241] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:21:37 008] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:21:37 243] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:21:37 243] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:21:37 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:21:57 015] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:21:57 237] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:21:57 237] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:21:57 268] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:22:17 027] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:22:17 250] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:22:17 250] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:22:17 282] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:22:21 858] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:22:21 858] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:22:22 094] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:22:22 094] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:22:22 094] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:22:22 094] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:22:22 109] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:22:37 027] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:22:37 248] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:22:37 248] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:22:37 278] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:22:57 000] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:22:57 222] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:22:57 222] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:22:57 252] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:23:17 012] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:23:17 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:23:17 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:23:17 258] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:23:37 010] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:23:37 244] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:23:37 244] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:23:37 259] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:23:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:23:57 229] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:23:57 229] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:23:57 243] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:24:17 022] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:24:17 240] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:24:17 240] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:24:17 255] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:24:18 399] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:auth.ticket
+[2022-09-02 22:24:18 399] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:388
+[2022-09-02 22:24:18 633] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:404
+[2022-09-02 22:24:18 633] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:24:18 633] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:24:18 634] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:24:21 895] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:24:21 895] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:24:22 116] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:24:22 116] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:24:22 117] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:24:22 117] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:24:37 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:24:37 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:24:37 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:24:37 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:24:57 024] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:24:57 243] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:24:57 243] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:24:57 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:25:17 021] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:25:17 241] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:25:17 241] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:25:17 256] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:25:37 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:25:37 241] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:25:37 241] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:25:37 272] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:25:57 028] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:25:57 246] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:25:57 246] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:25:57 278] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:26:17 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:26:17 229] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:26:17 229] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:26:17 259] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:26:21 869] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:26:21 869] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:26:22 088] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:26:22 088] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:26:22 088] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:26:22 089] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:26:37 002] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:26:37 225] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:26:37 225] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:26:37 257] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:26:57 009] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:26:57 229] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:26:57 229] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:26:57 261] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:27:17 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:27:17 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:27:17 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:27:17 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:27:37 009] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:27:37 228] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:27:37 228] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:27:37 259] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:27:57 023] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:27:57 246] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:27:57 246] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:27:57 278] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:28:17 027] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:28:17 262] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:28:17 262] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:28:17 293] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:28:21 883] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:28:21 883] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:28:22 118] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:28:22 118] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:28:22 119] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:28:22 119] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:28:37 011] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:28:37 226] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:28:37 226] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:28:37 256] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:28:57 013] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:28:57 233] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:28:57 233] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:28:57 265] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:29:17 007] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:29:17 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:29:17 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:29:17 258] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:29:37 012] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:29:37 235] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:29:37 235] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:29:37 267] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:29:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:29:57 228] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:29:57 228] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:29:57 259] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:30:17 000] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:30:17 233] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:30:17 233] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:30:17 265] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:30:21 884] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:30:21 884] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:30:22 120] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:30:22 120] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:30:22 120] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:30:22 121] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:30:22 136] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:30:37 026] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:30:37 246] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:30:37 246] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:30:37 277] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:30:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:30:57 230] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:30:57 230] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:30:57 262] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:31:17 023] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:31:17 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:31:17 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:31:17 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:31:37 005] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:31:37 212] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:31:37 212] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:31:37 243] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:31:57 019] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:31:57 237] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:31:57 237] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:31:57 252] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:32:17 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:32:17 215] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:32:17 215] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:32:17 247] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:32:21 898] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:32:21 898] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:32:22 119] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:32:22 119] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:32:22 119] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:32:22 120] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:32:37 013] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:32:37 249] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:32:37 249] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:32:37 281] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:32:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:32:57 225] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:32:57 225] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:32:57 256] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:33:17 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:33:17 225] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:33:17 225] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:33:17 256] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:33:37 011] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:33:37 246] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:33:37 246] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:33:37 278] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:33:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:33:57 217] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:33:57 217] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:33:57 248] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:34:17 022] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:34:17 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:34:17 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:34:17 272] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:34:21 883] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:34:21 883] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:34:22 103] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:34:22 103] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:34:22 104] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:34:22 104] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:34:37 012] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:34:37 231] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:34:37 231] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:34:37 247] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:34:57 023] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:34:57 245] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:34:57 245] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:34:57 261] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:35:17 025] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:35:17 233] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:35:17 233] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:35:17 264] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:35:37 013] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:35:37 249] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:35:37 249] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:35:37 281] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:35:57 007] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:35:57 241] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:35:57 241] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:35:57 274] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:36:17 008] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:36:17 244] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:36:17 244] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:36:17 274] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:36:21 908] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:36:21 908] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:36:22 146] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:36:22 146] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:36:22 146] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:36:22 147] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:36:37 007] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:36:37 226] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:36:37 226] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:36:37 257] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:36:57 013] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:36:57 249] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:36:57 249] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:36:57 281] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:37:17 028] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:37:17 249] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:37:17 249] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:37:17 281] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:37:37 005] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:37:37 229] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:37:37 229] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:37:37 260] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:37:57 012] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:37:57 248] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:37:57 248] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:37:57 263] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:38:17 021] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:38:17 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:38:17 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:38:17 258] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:38:21 887] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:38:21 887] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:38:22 106] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:38:22 106] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:38:22 106] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:38:22 107] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:38:37 028] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:38:37 262] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:38:37 262] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:38:37 278] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:38:57 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:38:57 215] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:38:57 215] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:38:57 231] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:39:17 006] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:39:17 223] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:39:17 223] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:39:17 253] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:39:37 026] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:39:37 245] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:39:37 245] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:39:37 261] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:39:57 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:39:57 225] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:39:57 225] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:39:57 257] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:40:17 007] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:40:17 228] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:40:17 228] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:40:17 244] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:40:21 904] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:40:21 904] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:40:22 142] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:40:22 142] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:40:22 142] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:40:22 143] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:40:37 005] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:40:37 239] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:40:37 239] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:40:37 270] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:40:57 010] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:40:57 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:40:57 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:40:57 272] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:41:17 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:41:17 223] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:41:17 223] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:41:17 253] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:41:37 003] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:41:37 209] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:41:37 209] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:41:37 225] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:41:57 014] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:41:57 221] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:41:57 221] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:41:57 252] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:42:17 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:42:17 245] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:42:17 245] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:42:17 277] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:42:21 913] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:42:21 913] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:42:22 131] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:42:22 131] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:42:22 132] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:42:22 132] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:42:37 002] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:42:37 223] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:42:37 223] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:42:37 255] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:42:57 010] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:42:57 247] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:42:57 247] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:42:57 263] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:43:17 028] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:43:17 265] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:43:17 265] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:43:17 281] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:43:37 013] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:43:37 234] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:43:37 234] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:43:37 265] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:43:57 009] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:43:57 228] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:43:57 228] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:43:57 257] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:44:17 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:44:17 243] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:44:17 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:44:17 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:44:21 914] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:44:21 914] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:44:22 149] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:44:22 149] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:44:22 149] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:44:22 150] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:44:22 165] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:44:37 018] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:44:37 241] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:44:37 241] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:44:37 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:44:57 028] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:44:57 242] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:44:57 242] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:44:57 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:45:17 001] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:45:17 222] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:45:17 222] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:45:17 253] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:45:37 006] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:45:37 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:45:37 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:45:37 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:45:57 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:45:57 229] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:45:57 229] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:45:57 261] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:46:17 023] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:46:17 230] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:46:17 230] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:46:17 262] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:46:21 891] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:46:21 891] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:46:22 115] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:46:22 115] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:46:22 115] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:46:22 116] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:46:37 028] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:46:37 245] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:46:37 245] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:46:37 260] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:46:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:46:57 243] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:46:57 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:46:57 273] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:47:17 012] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:47:17 228] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:47:17 228] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:47:17 258] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:47:37 012] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:47:37 231] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:47:37 231] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:47:37 263] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:47:57 018] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:47:57 254] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:47:57 254] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:47:57 286] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:48:17 014] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:48:17 237] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:48:17 237] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:48:17 267] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:48:21 915] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:48:21 915] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:48:22 133] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:48:22 133] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:48:22 133] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:48:22 134] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:48:37 006] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:48:37 243] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:48:37 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:48:37 274] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:48:57 026] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:48:57 241] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:48:57 241] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:48:57 272] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:49:17 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:49:17 227] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:49:17 227] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:49:17 257] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:49:37 013] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:49:37 234] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:49:37 234] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:49:37 266] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:49:57 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:49:57 244] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:49:57 244] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:49:57 275] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:50:17 011] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:50:17 232] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:50:17 232] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:50:17 263] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:50:21 903] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:50:21 903] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:50:22 126] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:50:22 126] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:50:22 126] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:50:22 127] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:50:37 009] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:50:37 231] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:50:37 231] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:50:37 263] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:50:57 023] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:50:57 243] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:50:57 243] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:50:57 259] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:51:17 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:51:17 223] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:51:17 223] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:51:17 254] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:51:37 012] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:51:37 245] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:51:37 245] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:51:37 277] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:51:57 006] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:51:57 226] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:51:57 226] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:51:57 242] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:52:17 008] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:52:17 227] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:52:17 227] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:52:17 258] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:52:21 885] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:52:21 885] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:52:22 123] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:52:22 123] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:52:22 123] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:52:22 124] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:52:37 014] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:52:37 235] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:52:37 235] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:52:37 267] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:52:57 018] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:52:57 241] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:52:57 241] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:52:57 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:53:17 006] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:53:17 213] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:53:17 213] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:53:17 245] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:53:37 023] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:53:37 243] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:53:37 243] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:53:37 259] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:53:57 003] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:53:57 223] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:53:57 223] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:53:57 255] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:54:17 029] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:54:17 246] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:54:17 246] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:54:17 278] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:54:21 919] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:54:21 919] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:54:22 153] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:54:22 153] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:54:22 154] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:54:22 154] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:54:37 027] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:54:37 244] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:54:37 244] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:54:37 274] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:54:57 024] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:54:57 244] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:54:57 244] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:54:57 276] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:55:17 013] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:55:17 232] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:55:17 232] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:55:17 263] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:55:37 009] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:55:37 228] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:55:37 228] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:55:37 243] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:55:57 018] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:55:57 238] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:55:57 238] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:55:57 254] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:56:17 007] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:56:17 228] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:56:17 228] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:56:17 258] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:56:21 917] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:56:21 917] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:56:22 137] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:56:22 137] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:56:22 137] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:56:22 138] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:56:22 152] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:56:37 025] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:56:37 262] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:56:37 262] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:56:37 293] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:56:57 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:56:57 230] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:56:57 230] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:56:57 262] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:57:17 017] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:57:17 237] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:57:17 237] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:57:17 269] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:57:37 027] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:57:37 262] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:57:37 262] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:57:37 294] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:57:57 007] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:57:57 245] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:57:57 245] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:57:57 277] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:58:17 006] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:58:17 242] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:58:17 242] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:58:17 273] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:58:21 914] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:876|ConvertG6RouteInfo| CTGcp::SetRouteInfo name:platform.online-state
+[2022-09-02 22:58:21 914] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:276
+[2022-09-02 22:58:22 134] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:260
+[2022-09-02 22:58:22 134] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:58:22 134] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:941|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: Recv data cnt:0
+[2022-09-02 22:58:22 135] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:58:22 149] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:1096|GCloud::G6Client::G6Connector::onDataRecvedProc| [Connector:045ACD18]: notify onDataRecvedProc ret:0, ext:0, msg:, url:keepalive.jupiterlauncher.com:8080
+[2022-09-02 22:58:37 002] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:58:37 223] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:58:37 223] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:58:37 254] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:58:57 023] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:58:57 258] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:58:57 258] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:58:57 289] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:59:17 008] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:59:17 244] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:59:17 244] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:59:17 275] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:59:37 010] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:59:37 228] | Info | [GCloudCore] |1700| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:59:37 228] | Info | [GCloudCore] |1700| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:59:37 259] | Info | [GCloudCore] |3400| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
+[2022-09-02 22:59:57 024] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:903|tgcpapi_net_send| statistic_tcp_send_len:36
+[2022-09-02 22:59:57 259] | Info | [GCloudCore] |3400| tgcpapi_net.cpp:836|tgcpapi_net_recv| statistic_tcp_recv_len:134
+[2022-09-02 22:59:57 259] | Info | [GCloudCore] |3400| G6ConnectorUpdate.cpp:929|GCloud::G6Client::G6Connector::handleRecv| [Connector:045ACD18]: onRecvData [url:keepalive.jupiterlauncher.com:8080]
+[2022-09-02 22:59:57 290] | Info | [GCloudCore] |1700| G6Connector.cpp:600|GCloud::G6Client::G6Connector::writeLocalSessionData| write session into file(C:\Tower Of Fantasy\Launcher/Cache\TSF4G2\session.txt) result(1)
